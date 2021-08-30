@@ -1,0 +1,1 @@
+# PR LINK : https://github.com/Samerodeh/django-models/pull/1
